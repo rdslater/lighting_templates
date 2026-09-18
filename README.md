@@ -1,7 +1,7 @@
 # Templates
 Using this for reproducible code within my group.  Models and Data can be configured but the training and predict scripts will help standardize as different people run others models.  
 
-Note that predict is a placeholder.
+Note that predict is a placeholder.  Model and Data are just basic examples to test train and predict.  I suspect I will eventually have multiple data and models.
 
 TODO: Put in predict that aggregates predictions and saves as a CSV with link to original image (we deal in images), original target (or link) and prediction (or link).
 
